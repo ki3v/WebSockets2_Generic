@@ -80,12 +80,6 @@
       "platforms": ["ststm32"]
     },
     {
-      "owner": "uipethernet",
-      "name": "UIPEthernet",
-      "version": ">=2.0.12",
-      "platforms": ["*"]
-    },
-    {
       "owner": "jandrassy",
       "name": "EthernetENC",
       "version": ">=2.0.3",
