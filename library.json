@@ -45,12 +45,6 @@
     },
     {
       "owner": "khoih-prog",
-      "name": "WiFiWebServer",
-      "version": ">=1.10.1",
-      "platforms": ["*"]
-    },
-    {
-      "owner": "khoih-prog",
       "name": "EthernetWebServer",
       "version": ">=2.3.0",
       "platforms": ["*"]
