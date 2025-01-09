@@ -44,12 +44,6 @@
       "platforms": ["*"]
     },
     {
-      "owner": "jandrassy",
-      "name": "EthernetENC",
-      "version": ">=2.0.3",
-      "platforms": ["*"]
-    },
-    {
       "owner": "khoih-prog",
       "name": "Ethernet_Generic",
       "version": "^2.7.1"
