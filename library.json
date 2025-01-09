@@ -33,12 +33,6 @@
   [
     {
       "owner": "khoih-prog",
-      "name": "WiFiNINA_Generic",
-      "version": ">=1.8.15-1",
-      "platforms": ["*"]
-    },
-    {
-      "owner": "khoih-prog",
       "name": "DoubleResetDetector_Generic",
       "version": ">=1.8.1",
       "platforms": ["*"]
@@ -125,12 +119,6 @@
       "owner": "khoih-prog",
       "name": "Ethernet_Generic",
       "version": "^2.7.1"
-    },
-    {
-      "owner": "khoih-prog",
-      "name": "WiFi101_Generic",
-      "version": "^1.0.0",
-      "platforms": ["*"]
     },
     {
       "owner": "ssilverman",
