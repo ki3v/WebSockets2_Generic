@@ -54,7 +54,7 @@ namespace websockets2_generic
         
       // From v1.1.0  
       // Using Teensy 4.1 NativeEthernet
-      #warning Using NativeEthernet for Teensy 4.1  in ws_common_NativeEthernet.hpp
+//       #warning Using NativeEthernet for Teensy 4.1  in ws_common_NativeEthernet.hpp
       
       #define PLATFORM_DOES_NOT_SUPPORT_BLOCKING_READ
       #define _WS_CONFIG_NO_SSL   true
