@@ -58,7 +58,7 @@
     #include <Tiny_Websockets_Generic/internals/ws_common_LAN8742AEthernet.hpp>   
  #elif USE_NATIVE_ETHERNET
     // KH, from v1.1.0
-    #warning WEBSOCKETS_USE_ETHERNET and USE_NATIVE_ETHERNET in message.hpp
+//     #warning WEBSOCKETS_USE_ETHERNET and USE_NATIVE_ETHERNET in message.hpp
     #include <Tiny_Websockets_Generic/internals/ws_common_NativeEthernet.hpp>
   #elif USE_QN_ETHERNET
     // KH, from v1.6.0
