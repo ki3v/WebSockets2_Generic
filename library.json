@@ -29,15 +29,6 @@
       "tests"
     ]
   },
-  "dependencies": 
-  [
-    {
-      "owner": "khoih-prog",
-      "name": "EthernetWebServer",
-      "version": ">=2.3.0",
-      "platforms": ["*"]
-    }
-  ],
   "license": "LGPL-3.0",
   "frameworks": "*",
   "platforms": "*",
