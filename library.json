@@ -33,12 +33,6 @@
   [
     {
       "owner": "khoih-prog",
-      "name": "DoubleResetDetector_Generic",
-      "version": ">=1.8.1",
-      "platforms": ["*"]
-    },
-    {
-      "owner": "khoih-prog",
       "name": "EthernetWebServer",
       "version": ">=2.3.0",
       "platforms": ["*"]
