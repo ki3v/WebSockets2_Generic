@@ -48,12 +48,6 @@
       "name": "Ethernet_Generic",
       "version": "^2.7.1"
     },
-    {
-      "owner": "ssilverman",
-      "name": "QNEthernet",
-      "version": ">=0.17.0",
-      "platforms": ["teensy"]
-    }
   ],
   "license": "LGPL-3.0",
   "frameworks": "*",
